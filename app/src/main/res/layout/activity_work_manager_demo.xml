@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".WorkManagerDemo">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SignUp"
+        android:textSize="@dimen/_20sdp"
+        android:textColor="@color/primary_text"
+        android:gravity="center"
+        android:layout_margin="@dimen/_20sdp"/>
+
+
+    <EditText
+        style="@style/myEdittext"
+        android:id="@+id/nameETID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Name"
+        android:layout_margin="@dimen/_5sdp"/>
+
+    <EditText
+        android:id="@+id/phoneETID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Phone Number"
+        android:inputType="number"
+        android:layout_margin="@dimen/_5sdp" />
+    <EditText
+        android:id="@+id/emailETID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email"
+        android:layout_margin="@dimen/_5sdp"/>
+
+    <Button
+        style="@style/myButton"
+        android:id="@+id/submitBTNID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:background="#000000"/>
+
+    <Button
+        android:id="@+id/dataBTNID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get Data"
+        style="@style/myButton"
+        android:background="#000000"/>
+
+
+</LinearLayout>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/drawable/btn_bg.xml" value="0.2115" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/drawable/button_bg.xml" value="0.1885" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/drawable/calendar_bg_selector.xml" value="0.208" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/drawable/circular.xml" value="0.1365" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/drawable/circular_img.xml" value="0.1365" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/drawable/collapse_bg.xml" value="0.1465" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/drawable/custom_thumb.xml" value="0.1525" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/drawable/custom_track.xml" value="0.1525" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/drawable/departmentcard_bg.xml" value="0.2085" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/drawable/edittext_bg.xml" value="0.2115" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/drawable/editvie_bg.xml" value="0.18" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.18" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.1465" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.1465" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/drawable/ic_outline_lock_24.xml" value="0.2115" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/drawable/loading_bg.xml" value="0.1935" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/drawable/person_outline_24.xml" value="0.1465" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/drawable/textview_bg.xml" value="0.18" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_alarm_demo.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_bootom_sheet.xml" value="0.25" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_broadcast_receiver_demo.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_calendar_view_demo.xml" value="0.25" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_collapse_header_demo.xml" value="0.17" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_current_location.xml" value="0.22" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_details.xml" value="0.2" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_display_data.xml" value="0.2" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_enum_demo.xml" value="0.25" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_expandable_list_view_demo.xml" value="0.33" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_frame_example.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_google_maps.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_graph_demo.xml" value="0.25" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_language_demo.xml" value="0.25" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_linear_layout_example.xml" value="0.25" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_maps.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_mvvmdemo.xml" value="0.33" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_navigation_drawer_ex.xml" value="0.12" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_pagination_demo.xml" value="0.21" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_permissions_demo.xml" value="0.22" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_shopping_list.xml" value="0.25" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_view_pager_example.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/activity_work_manager_demo.xml" value="0.22" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/bottom_sheet_practice.xml" value="0.25" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/calendar_bg_selector.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/coupouns_list_item.xml" value="0.22" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/custom_dialog_spinner.xml" value="0.25" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/deals_list_item.xml" value="0.25" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/department_list_item.xml" value="0.25" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/fragment_coupons.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/fragment_department.xml" value="0.22" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/fragment_my_deals.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/item_custom_spinner.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/layout_group_item.xml" value="0.2" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/layout_item.xml" value="0.25" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/loader_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/nav_header.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/pagination_item_list.xml" value="0.33" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/layout/shopping_list_item.xml" value="0.33" />
+        <entry key="..\:/Users/Veritra/AndroidStudioProjects/Task1/app/src/main/res/menu/nav_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

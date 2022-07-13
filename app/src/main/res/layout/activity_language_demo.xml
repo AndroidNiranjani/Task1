@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".LanguageDemo">
+
+    <TextView
+        android:id="@+id/messageTVID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:textSize="@dimen/_15sdp"
+        android:textColor="@color/black"
+        android:text="Welcome"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/message3TVID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:textSize="@dimen/_15sdp"
+        android:textColor="@color/black"
+        android:text="Welcome"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/message4TVID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:textSize="@dimen/_15sdp"
+        android:textColor="@color/black"
+        android:text="Welcome"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/message5TVID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:textSize="@dimen/_15sdp"
+        android:textColor="@color/black"
+        android:text="Welcome"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/message2TVID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:textSize="@dimen/_15sdp"
+        android:textColor="@color/black"
+        android:text="Welcome"
+        android:textAlignment="center" />
+
+
+    <Button
+        android:id="@+id/btnSpanish"
+        android:layout_margin="16dp"
+        android:background="#2196F3"
+        android:textColor="#ffffff"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Spanish"/>
+
+    <Button
+        android:id="@+id/btnEnglish"
+        android:layout_margin="16dp"
+        android:background="#FF5722"
+        android:textColor="#ffffff"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="English"/>
+
+    <Button
+        android:visibility="gone"
+        android:id="@+id/btnodia"
+        android:layout_margin="16dp"
+        android:background="#3F51B5"
+        android:textColor="#ffffff"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Odia"/>
+
+</LinearLayout>

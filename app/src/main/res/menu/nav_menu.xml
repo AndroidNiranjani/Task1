@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+
+    <item android:id="@+id/shoppinglist"
+        android:title="Shopping List"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"/>
+    <item android:id="@+id/share"
+        android:title="Share"
+        android:icon="@drawable/ic_baseline_share_24"/>
+    <item android:id="@+id/link"
+        android:title="Link"
+        android:icon="@drawable/ic_baseline_link_24"/>
+
+    <item android:id="@+id/enumID"
+        android:title="Alarm Demo"
+        android:icon="@drawable/ic_baseline_link_24"/>
+    <item android:id="@+id/languageID"
+        android:title="BroadCast Receiver Demo"
+        android:icon="@drawable/ic_baseline_link_24"/>
+
+</menu>
