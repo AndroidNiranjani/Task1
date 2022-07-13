@@ -1,6 +1,6 @@
 package com.example.task1
 
-import android.graphics.Color
+
 import android.net.ParseException
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
